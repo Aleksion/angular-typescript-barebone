@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "target": "ES5"
+  },
+  "files": [
+    "src/app/app.config.ts",
+    "src/app/app.module.ts",
+    "src/app/app.route.ts",
+    "src/app/app.run.ts",
+    "src/app/references.d.ts",
+    "src/app/main/main.controller.ts",
+    ".tmp/typings/tsd.d.ts"
+  ]
+}
